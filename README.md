@@ -1,12 +1,12 @@
-## Hi Curious Github Scroller 👋
-
-Welcome to my Github Profile!
+## Hi Github Scroller, Welcome to my Profile!👋
 
 
 # 💫 About Me:
-I am a computing scientist, sports enthusiast and experienced stack overfow scroller (been through a lot of bugs). I am a Software Developer with a passion for building impactful sollutions and scalable systems. I believe clean and commented code is important not just for the people collaborating with me but also because i need to remember what i did 3 weeks ago. My experiences as off now primarily lie in Fullstack Development as i do enjoy bringing together backend architecture with front end visualisation. Additionally, i do deploy and work in the blockchain space as a side hobby as i am curious about Fintech and the concept of decentralization. In my free time, I enjoy building and experimenting with side projects. Several of these projects will be showcased in more detail on my personal website once it’s completed. I also love participating in networking events and hackathons. Recently, I had the exciting opportunity to be invited by the IOTA Foundation to take part in their hackathon, which was especially rewarding as a junior developer.
+I am a computing scientist, sports enthusiast and experienced stack overfow scroller (been through a lot of bugs). I am a Software Developer with a passion for building impactful sollutions and scalable systems. I believe clean and commented code is important not just for the people collaborating with me but also because i need to remember what i did 3 weeks ago. My experiences as off now primarily lie in Fullstack Development as i do enjoy bringing together backend architecture with front end visualisation. Additionally, i do deploy and work in the blockchain space as a side hobby as i am curious about Fintech and the concept of decentralization. In my free time, I enjoy building and experimenting with side projects. Several of these projects will be showcased in more detail on my personal website once it’s completed. For the meantime, feel more than free to reach out and ask what im working on i really enjoy a great discussion.
 
-I am currently exploring new job opportunities and hope this gives you a sense of my passion and the vibe I bring to the table(hope its a good vibe).
+I also love participating in networking events and hackathons. Recently, I had the exciting opportunity to be invited by the IOTA Foundation to take part in their hackathon, which was especially rewarding as a junior developer.
+
+I am currently exploring new job opportunities and hope this gives you a sense of my passion and the vibe I bring to the table (hope its a good vibe).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephanos-faustmann/) [![Stack Overflow](https://stackoverflow.com/users/20658239/stefanos-faustmann?tab=profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faustmannstef@gmail.com) 
