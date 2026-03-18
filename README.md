@@ -6,7 +6,7 @@ I am a computing scientist, sports enthusiast and experienced stack overfow scro
 
 I also love participating in networking events and hackathons. Recently, I had the exciting opportunity to be invited by the IOTA Foundation to take part in their hackathon, which was especially rewarding as a junior developer. If you are reading this because you are organizing a hackathon, i would really appreciate an invitation :).
 
-I am currently exploring new job opportunities and hope this gives you a sense of my passion and the vibe I bring to the table (hope its a good vibe).
+I am currently exploring new job opportunities and hope this gives you a sense of my passion and the vibe I bring to the table.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanos-faustmann/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faustmannstef@gmail.com) 
