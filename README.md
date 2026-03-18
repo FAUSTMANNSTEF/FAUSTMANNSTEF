@@ -1,4 +1,4 @@
-## Hi Github Scroller, Welcome to my Profile!👋
+## Hi Github User, Welcome to my Profile!👋
 
 
 # 💫 About Me:
